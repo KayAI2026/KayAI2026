@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KayAI2026
-- 👀 I’m interested in AI chat agents with IBM Watson Orchestrate, AgentGPT, Prompt engineering, and Reverse Prompt engineering
+- 👀 I’m interested in AI chat agents with Generative AI IBM Watson Orchestrate, AgentGPT, Prompt engineering, and Reverse Prompt engineering
 - 🌱 I’m currently learning Docker, Linux, Kubernetes
 - 💞️ I’m looking to collaborate on Process Engineering, Process Optimization, Customer Solutions
 - 📫 How to reach me karan.arora2026@gmail.com
